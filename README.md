@@ -24,5 +24,5 @@
 전등의 빛을 통해 다른 사용자들이 현재 독서 중인지도 알 수 있어요.<br>
 <br><br>
 ※ 접근 권한 안내<br>
-- 인터넷(필수) : 도서 검색 및 서버와 통신하기 위해 인터넷이 필요합니다.<br>
-![리드라이트 설명](https://user-images.githubusercontent.com/59308419/123102763-599fc280-d470-11eb-9b63-f5a24784df5c.png)
+- 인터넷(필수) : 도서 검색 및 서버와 통신하기 위해 인터넷이 필요합니다.<br><br>
+<img src="https://user-images.githubusercontent.com/59308419/123102763-599fc280-d470-11eb-9b63-f5a24784df5c.png"  width="720" height="1080">
