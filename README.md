@@ -1,6 +1,7 @@
 ### ReadLight 앱 소개
 
 #### 리드라이트 : [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.onestation.readlight "리드라이트 구글 플레이 스토어 다운로드 링크")
+<br>
 ---
 <br><br>
 📚리드라이트는 책과 빛을 통해 사람들과 함께 하는 독서기록 앱입니다.
