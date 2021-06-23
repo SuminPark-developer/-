@@ -21,8 +21,8 @@
 [같이 읽어요, 빛과 함께 하는 독서모임]<br>
 리드라이트의 '같이 읽으러 가기'모드를 통해 온라인 독서모임을 해보세요!<br>
 다양한 사람들의 책을 보고 내 서재에 저장하며, 현재 읽는 책을 공유할 수 있어요.<br>
-전등의 빛을 통해 다른 사용자들이 현재 독서 중인지도 알 수 있어요.<br>
+전등의 빛을 통해 다른 사용자들이 현재 독서 중인지도 알 수 있어요.<br><br><br>
 <a href="https://play.google.com/store/apps/details?id=com.onestation.readlight" target="_blank"><img src="https://user-images.githubusercontent.com/59308419/123103770-4c370800-d471-11eb-85d2-7bef5216ab35.png"></a>
-<br>
+<br><br><br>
 ※ 접근 권한 안내<br>
 - 인터넷(필수) : 도서 검색 및 서버와 통신하기 위해 인터넷이 필요합니다.
