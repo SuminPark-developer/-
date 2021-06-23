@@ -1,6 +1,6 @@
 #### 리드라이트 소개 페이지
 
-###### 리드라이트 : [구글 플레이 스토어] (https://play.google.com/store/apps/details?id=com.onestation.readlight, "리드라이트 구글 플레이 스토어 다운로드 링크")
+###### 리드라이트 : [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.onestation.readlight, "리드라이트 구글 플레이 스토어 다운로드 링크")
 
 * * *
 <br>
