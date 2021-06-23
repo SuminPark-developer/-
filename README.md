@@ -25,4 +25,4 @@
 <br><br>
 ※ 접근 권한 안내<br>
 - 인터넷(필수) : 도서 검색 및 서버와 통신하기 위해 인터넷이 필요합니다.<br><br>
-<img src="https://user-images.githubusercontent.com/59308419/123103770-4c370800-d471-11eb-85d2-7bef5216ab35.png"  width="1024" height="500">
+<img src="https://user-images.githubusercontent.com/59308419/123103770-4c370800-d471-11eb-85d2-7bef5216ab35.png">
